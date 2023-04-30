@@ -4,7 +4,7 @@
 
 ## 项目说明
 
-本次项目参考[geek_crawler](https://github.com/etheriousnatsu/geek_crawler),与原项目比较，主要区别如下:
+本次项目参考[geek_crawler](https://github.com/EtheriousNatsu/geektime_crawler),与原项目比较，主要区别如下:
 
 1. 密码输入时不可见
 2. 把音频下载到本地
