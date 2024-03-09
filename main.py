@@ -11,7 +11,7 @@ from crawler import Crawler
 
 def configure_logging():
     logging.basicConfig(
-        format='%(asctime)s - %(pathname)s[line:%(lineno)d] - %(levelname)s: %(message)s',
+        format='%(asctime)s - %(levelname)s: %(message)s',
         level=logging.INFO
     )
     handler = logging.FileHandler(
